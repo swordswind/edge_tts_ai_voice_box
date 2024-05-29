@@ -1,0 +1,5 @@
+ttkbootstrap
+pillow
+pyperclip
+pygame
+edge-tts
